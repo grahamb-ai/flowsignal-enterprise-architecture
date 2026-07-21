@@ -24,7 +24,9 @@ It establishes Runtime Authority as an independent enterprise architectural capa
 This repository contains the reference architectures, white papers and implementation guidance supporting that architectural discipline.
 ---
 <p align="center">
-  <img src="images/mendix/Mendix Institutional Runtime Architecture.png" width="950">
+  <a href="images/mendix/Mendix Institutional Runtime Architecture.png">
+  <img src="images/mendix/Mendix Institutional Runtime Architecture.png" width="900" alt="Mendix Institutional Runtime Architecture">
+</a>
 </p>
 
 <p align="center">
