@@ -59,8 +59,8 @@ Runtime Authority asks:
 | **[FEAL-001](docs/FEAL-001-Institutional-Runtime-Architecture.pdf)** | Institutional Runtime Architecture | ✅ Released |
 | **[FP-001](docs/FP-001-Runtime-Authority-Control.pdf)** | Runtime Authority Control | ✅ Released |
 | **[FS-ARCH-003](docs/FS-ARCH-003-Mendix-Reference-Architecture.pdf)** | Mendix Reference Architecture | ✅ Released |
-Additional publications will be released as the architecture library expands.
 
+*Additional publications will be released as the architecture library expands.*
 ---
 
 # Reference Implementation (FlowSignal MVP)
