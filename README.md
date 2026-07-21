@@ -24,7 +24,13 @@ It defines an enterprise architectural capability that determines whether delega
 The repository contains the public reference architectures, white papers and implementation guidance that establish Runtime Authority as an independent architectural discipline for autonomous and AI-enabled enterprise systems.
 
 ---
+<p align="center">
+  <img src="images/mendix/Mendix Institutional Runtime Architecture.png" width="950">
+</p>
 
+<p align="center">
+<i>Figure 1 – Independent Runtime Authority within the Mendix reference architecture.</i>
+</p>
 ## Why Runtime Authority?
 
 Enterprise systems have traditionally assumed that authority delegated during workflow approval remains valid when execution eventually occurs.
