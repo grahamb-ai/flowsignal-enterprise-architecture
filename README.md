@@ -15,7 +15,7 @@ reference architectures and enterprise implementation guidance.
 
 
 
-> **Independent Runtime Authority for Enterprise Systems**
+
 
 The **FlowSignal Enterprise Architecture Library (FEAL)** is the public repository for the architectural publications supporting **Independent Runtime Authority**.
 
