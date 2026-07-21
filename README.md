@@ -84,6 +84,7 @@ The screenshots included within this repository have been captured directly from
 <p align="center">
 <i>FlowSignal MVP demonstrating a deterministic Runtime Authority determination at the Execution Bind Point, resulting in an Authority Receipt.</i>
 </p>
+
 ---
 
 # Repository Contents 
