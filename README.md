@@ -19,10 +19,9 @@ reference architectures and enterprise implementation guidance.
 
 The FlowSignal Enterprise Architecture Library (FEAL) is the public repository for the architectural publications defining Independent Runtime Authority.
 
-It defines an enterprise architectural capability that determines whether delegated institutional authority remains legitimately exercisable immediately before consequential execution.
+It establishes Runtime Authority as an independent enterprise architectural capability responsible for determining whether delegated institutional authority remains legitimately exercisable immediately before consequential execution.
 
-The repository contains the public reference architectures, white papers and implementation guidance that establish Runtime Authority as an independent architectural discipline for autonomous and AI-enabled enterprise systems.
-
+This repository contains the reference architectures, white papers and implementation guidance supporting that architectural discipline.
 ---
 <p align="center">
   <img src="images/mendix/Mendix Institutional Runtime Architecture.png" width="950">
