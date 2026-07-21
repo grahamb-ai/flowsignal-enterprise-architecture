@@ -77,7 +77,13 @@ Current capabilities include:
 - Defensible Execution
 
 The screenshots included within this repository have been captured directly from the running FlowSignal MVP and represent operational output rather than conceptual illustrations.
+<p align="center">
+  <img src="examples/Screenshot-MVP-FlowSignal-2.png" width="950" alt="FlowSignal Runtime Authority Dashboard">
+</p>
 
+<p align="center">
+<i>FlowSignal MVP demonstrating a deterministic ESCALATE decision at the Execution Bind Point.</i>
+</p>
 ---
 
 # Repository Contents
