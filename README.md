@@ -155,9 +155,9 @@ Feedback from enterprise architects, governance specialists, platform providers 
 
 # About FlowSignal
 
-FlowSignal is developing **Independent Runtime Authority** as a foundational enterprise architectural capability for autonomous and AI-enabled systems.
+FlowSignal develops Independent Runtime Authority as an enterprise architectural capability for autonomous and AI-enabled systems.
 
-**Website**
+The FlowSignal platform is the first public reference implementation of the FlowSignal Enterprise Architecture Library (FEAL).
 
 https://flowsignal.ai
 
@@ -165,9 +165,9 @@ https://flowsignal.ai
 
 ## Vision
 
-Independent Runtime Authority is proposed as the next foundational responsibility within Enterprise Architecture, providing institutions with a deterministic mechanism to determine whether delegated authority remains legitimately exercisable immediately before consequential execution.
+Independent Runtime Authority proposes that Runtime Authority should become the next foundational responsibility within Enterprise Architecture, providing institutions with a deterministic mechanism to determine whether delegated authority remains legitimately exercisable immediately before consequential execution.
 
-FlowSignal is the first reference implementation of that architectural discipline.
+FlowSignal is the first public reference implementation of that architectural discipline.
 # License
 
 This repository is released under the Apache 2.0 License.
