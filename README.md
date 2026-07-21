@@ -1,33 +1,22 @@
-<p align="center">
-  <img src="images/logos/FlowSignal-Logo.png" width="220">
-</p>
-
-<h1 align="center">
-FlowSignal Enterprise Architecture Library (FEAL)
-</h1>
-
-<p align="center">
-<b>Independent Runtime Authority for Enterprise Systems</b>
-</p>
 # FlowSignal Enterprise Architecture Library (FEAL)
 
 > **Independent Runtime Authority for Enterprise Systems**
 
-The **FlowSignal Enterprise Architecture Library (FEAL)** is the public architecture repository for **Independent Runtime Authority**.
+The **FlowSignal Enterprise Architecture Library (FEAL)** is the public repository for the architectural publications supporting **Independent Runtime Authority**.
 
 It defines an enterprise architectural capability that determines whether delegated institutional authority remains legitimately exercisable immediately before consequential execution.
 
-The library contains the public reference architectures, engineering papers and implementation guidance that establish Runtime Authority as an independent architectural discipline for autonomous and AI-enabled enterprise systems.
+The repository contains the public reference architectures, white papers and implementation guidance that establish Runtime Authority as an independent architectural discipline for autonomous and AI-enabled enterprise systems.
 
 ---
 
 ## Why Runtime Authority?
 
-Enterprise systems have traditionally assumed that authority delegated during design or workflow approval remains valid when execution eventually occurs.
+Enterprise systems have traditionally assumed that authority delegated during workflow approval remains valid when execution eventually occurs.
 
 Modern AI systems, autonomous workflows and dynamic enterprise environments have changed that assumption.
 
-Execution now frequently occurs under runtime conditions that differ from those that existed when authority was originally delegated.
+Execution increasingly occurs under runtime conditions that differ from those that existed when authority was originally delegated.
 
 Runtime Authority addresses this problem by introducing an independent determination immediately before consequential execution.
 
@@ -55,7 +44,7 @@ Additional publications will be released as the architecture library expands.
 
 # Reference Implementation (FlowSignal MVP)
 
-The accompanying FlowSignal MVP demonstrates the practical implementation of Independent Runtime Authority within a working enterprise application.
+The FlowSignal MVP demonstrates the practical implementation of Independent Runtime Authority within a working enterprise application.
 
 Current capabilities include:
 
@@ -66,11 +55,11 @@ Current capabilities include:
 - Evidence Continuum
 - Defensible Execution
 
-The screenshots included within this repository have been captured directly from the FlowSignal MVP and represent operational output rather than conceptual illustrations.
+The screenshots included within this repository have been captured directly from the running FlowSignal MVP and represent operational output rather than conceptual illustrations.
 
 ---
 
-# Repository Structure
+# Repository Contents
 
 ```
 docs/
@@ -128,6 +117,14 @@ The architecture library will continue to expand with additional publications, i
 
 ---
 
+# Feedback
+
+The FlowSignal Enterprise Architecture Library is published to encourage technical discussion and peer review.
+
+Feedback from enterprise architects, governance specialists, platform providers and AI practitioners is welcomed.
+
+---
+
 # About FlowSignal
 
 FlowSignal is developing **Independent Runtime Authority** as a foundational enterprise architectural capability for autonomous and AI-enabled systems.
@@ -138,10 +135,13 @@ https://flowsignal.ai
 
 ---
 
-## License
+# License
 
 This repository is released under the Apache 2.0 License.
 
 ---
+
+**Version:** 1.0  
+**Initial Public Release:** July 2026
 
 © 2026 FlowSignal. All rights reserved.
