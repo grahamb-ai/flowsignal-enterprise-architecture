@@ -78,7 +78,7 @@ Current capabilities include:
 
 The screenshots included within this repository have been captured directly from the running FlowSignal MVP and represent operational output rather than conceptual illustrations.
 <p align="center">
-  <img src="Example/Screenshot MVP FlowSignal 2.png" width="950" alt="FlowSignal Runtime Authority Dashboard">
+  <img src="Example/Screenshot MVP FlowSignal 1.png" width="950" alt="FlowSignal Runtime Authority Dashboard">
 </p>
 
 <p align="center">
