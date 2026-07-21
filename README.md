@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="images/logos/FlowSignal-Logo.png" width="220">
+</p>
+
+<h1 align="center">
+FlowSignal Enterprise Architecture Library (FEAL)
+</h1>
+
+<p align="center">
+<b>Independent Runtime Authority for Enterprise Systems</b>
+</p>
 # FlowSignal Enterprise Architecture Library (FEAL)
 
 > **Independent Runtime Authority for Enterprise Systems**
