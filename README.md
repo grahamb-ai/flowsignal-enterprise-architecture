@@ -5,7 +5,7 @@
 <h1 align="center">FlowSignal Enterprise Architecture Library (FEAL)</h1>
 
 <p align="center">
-<b>Independent Runtime Authority for Enterprise Systems</b>
+
 </p>
 
 <p align="center">
