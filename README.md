@@ -56,10 +56,9 @@ Runtime Authority asks:
 
 | Document | Description | Status |
 |-----------|-------------|:------:|
-[FEAL-001](docs/FEAL-001%20-%20Institutional%20Runtime%20Architecture.pdf) |Institutional Runtime Architecture.pdf| ✅ Released |
-| **FP-001** | Runtime Authority Control | ✅ Released |
-| **FS-ARCH-003** | Mendix Reference Architecture | ✅ Released |
-
+| **[FEAL-001](docs/FEAL-001-Institutional-Runtime-Architecture.pdf)** | Institutional Runtime Architecture | ✅ Released |
+| **[FP-001](docs/FP-001-Runtime-Authority-Control.pdf)** | Runtime Authority Control | ✅ Released |
+| **[FS-ARCH-003](docs/FS-ARCH-003-Mendix-Reference-Architecture.pdf)** | Mendix Reference Architecture | ✅ Released |
 Additional publications will be released as the architecture library expands.
 
 ---
