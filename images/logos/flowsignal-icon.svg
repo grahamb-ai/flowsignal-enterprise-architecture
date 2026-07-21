@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="FlowSignal icon">
+  <defs>
+    <linearGradient id="fsTeal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2DE2C5"/>
+      <stop offset="100%" stop-color="#36A3FF"/>
+    </linearGradient>
+    <linearGradient id="fsNavy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071A2B"/>
+      <stop offset="100%" stop-color="#0B2A44"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0.2
+                0 0 1 0 0.35
+                0 0 0 0.55 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="96" fill="url(#fsNavy)"/>
+  <g transform="translate(256,256)">
+    <circle r="162" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="3"/>
+    <circle r="120" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="3"/>
+
+    <g fill="url(#fsTeal)" filter="url(#softGlow)">
+      <path d="M0 -216 L18 -132 L0 -144 L-18 -132 Z"/>
+      <path d="M216 0 L132 18 L144 0 L132 -18 Z"/>
+      <path d="M0 216 L-18 132 L0 144 L18 132 Z"/>
+      <path d="M-216 0 L-132 -18 L-144 0 L-132 18 Z"/>
+
+      <path d="M152 -152 L108 -72 L108 -96 L72 -96 Z" opacity="0.9"/>
+      <path d="M152 152 L72 108 L108 108 L108 72 Z" opacity="0.9"/>
+      <path d="M-152 152 L-72 72 L-72 108 L-108 108 Z" opacity="0.9"/>
+      <path d="M-152 -152 L-108 -108 L-108 -72 L-72 -72 Z" opacity="0.9"/>
+    </g>
+
+    <circle r="14" fill="#EAF3FF" opacity="0.92"/>
+    <circle r="32" fill="none" stroke="rgba(234,243,255,0.35)" stroke-width="3"/>
+
+    <g fill="none" stroke="url(#fsTeal)" stroke-linecap="round" filter="url(#softGlow)">
+      <path d="M40 -44 C92 -92, 150 -80, 176 -28" stroke-width="8" opacity="0.95"/>
+      <path d="M52 -20 C92 -56, 130 -50, 150 -18" stroke-width="6" opacity="0.72"/>
+    </g>
+  </g>
+</svg>
