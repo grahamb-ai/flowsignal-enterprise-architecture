@@ -13,7 +13,7 @@ The public architecture repository for Independent Runtime Authority,
 reference architectures and enterprise implementation guidance.
 </p>
 
-# FlowSignal Enterprise Architecture Library (FEAL)
+
 
 > **Independent Runtime Authority for Enterprise Systems**
 
