@@ -82,7 +82,7 @@ The screenshots included within this repository have been captured directly from
 </p>
 
 <p align="center">
-<i>FlowSignal MVP demonstrating a deterministic Runtime Authority determination at the Execution Bind Point, resulting in an Authority Receipt.</i>
+<i>FlowSignal MVP demonstrating a deterministic Runtime Authority determination at the Execution Bind Point, resulting in a signed Authority Receipt.</i>
 </p>
 
 ---
@@ -91,15 +91,15 @@ The screenshots included within this repository have been captured directly from
 
 ```
 docs/
-    Public architecture publications
+    FEAL publications and reference architectures
 
 images/
-    Architecture diagrams and figures
+    Architecture diagrams and supporting figures
 
 images/mendix/
-    Figures used within FS-ARCH-003
+    Figures supporting FS-ARCH-003
 
-examples/
+Example/
     MVP screenshots and implementation examples
 ```
 
@@ -163,6 +163,11 @@ https://flowsignal.ai
 
 ---
 
+## Vision
+
+Independent Runtime Authority is proposed as the next foundational responsibility within Enterprise Architecture, providing institutions with a deterministic mechanism to determine whether delegated authority remains legitimately exercisable immediately before consequential execution.
+
+FlowSignal is the first reference implementation of that architectural discipline.
 # License
 
 This repository is released under the Apache 2.0 License.
